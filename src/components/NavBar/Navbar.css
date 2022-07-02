@@ -1,0 +1,17 @@
+.boton{
+    background-color: rgb(224 89 89);
+}
+
+.navbar{
+    width: 100vw;
+    background-color: #e0e0e0;
+    padding-left: 50px;
+}
+
+#logoHenry{
+    width: 80px;
+}
+
+#navbarSupportedContent{
+   padding-left: 30px;
+}

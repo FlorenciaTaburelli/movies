@@ -1,0 +1,23 @@
+.container-carousel{
+    position: relative;
+    top: 10%;
+    width: 100vw;
+}
+
+.img-container{
+    display: flex;
+    flex-direction: row;
+    transition-duration: 300ms;
+    transition-timing-function: ease;
+}
+
+
+
+.d-block{
+    height: 470px;
+}
+
+.d-block:hover{
+    transform: scale(1.1);
+    border: 3px solid #fff
+}
